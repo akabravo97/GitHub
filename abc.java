@@ -106,7 +106,7 @@ public void mouseDragged(MouseEvent me) {
 mouseX = me.getX();
 mouseY = me.getY();
 msg = "*";
-showStatus("Dragging mouse at " + mouseX + ", " + mouseY);
+showStatus("Dragging  mouse at " + mouseX + ", " + mouseY);
 repaint();
 }
 // Handle mouse moved.
