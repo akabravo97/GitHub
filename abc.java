@@ -64,7 +64,7 @@ public void mouseClicked(MouseEvent me) {
 // save coordinates
 mouseX = 0;
 mouseY = 10;
-msg = "Mouse clicked.";
+msg = "Mouse clicked !";
 setForeground(Color.red);
 setForeground(Color.gray);
 }
